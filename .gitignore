@@ -1,0 +1,2 @@
+# Ignore large dataset and checkpoint files
+data/.ipynb_checkpoints/mnist_train-checkpoint.csv
