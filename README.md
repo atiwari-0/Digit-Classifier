@@ -1,6 +1,9 @@
 # Digit-Classifier
 🧠 MNIST Neural Network from Scratch
+
+
 📚 Overview
+
 This project implements a fully connected neural network from scratch using NumPy to classify handwritten digits from the famous MNIST dataset. The model is built without using high-level libraries such as TensorFlow or PyTorch for gaining a deeper understanding of the fundamental concepts of deep learning, including:
 
 Forward propagation
